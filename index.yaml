@@ -1,0 +1,124 @@
+apiVersion: v1
+entries:
+  7-days-to-die:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-08-10T17:49:12.741158774Z"
+    description: A Helm chart for Kubernetes
+    digest: a2a654439ff5153f18e26632bbeac6460ff7f0b6ac61958e1fc8109ced0e5d9d
+    name: 7-days-to-die
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/7-days-to-die-0.2.0/7-days-to-die-0.2.0.tgz
+    version: 0.2.0
+  astroneer:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:12.847961646Z"
+    description: A Helm chart for Kubernetes
+    digest: fb9a8ef4b15056c370723e1c5b46644db3ad4fa18903970e4f6b12b652d87500
+    name: astroneer
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/astroneer-0.2.0/astroneer-0.2.0.tgz
+    version: 0.2.0
+  dont-starve-together:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:12.968537524Z"
+    description: A Helm chart for Kubernetes
+    digest: ab692d8498c85de23df8034b60da835e5c22804ea53ed65060e0c6c856c4525f
+    name: dont-starve-together
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/dont-starve-together-0.2.0/dont-starve-together-0.2.0.tgz
+    version: 0.2.0
+  enshrouded:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:13.06049551Z"
+    description: A Helm chart for Kubernetes
+    digest: 1ae95aec0ff1d8096a3572de1e8200fe2e26912332c9a5c58f4016e4761a5fed
+    name: enshrouded
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/enshrouded-0.2.0/enshrouded-0.2.0.tgz
+    version: 0.2.0
+  minecraft:
+  - apiVersion: v2
+    appVersion: 1.20.0
+    created: "2025-08-10T17:49:13.195673124Z"
+    description: Install various Minecraft server modpacks on Kubernetes
+    digest: a8aa98a3763324acf7db7d8e301beddf37c707abaea2d01b8b24993261897689
+    name: minecraft
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/minecraft-0.2.0/minecraft-0.2.0.tgz
+    version: 0.2.0
+  palworld:
+  - apiVersion: v2
+    appVersion: 1.1.5
+    created: "2025-08-10T17:49:13.301241153Z"
+    description: A Helm chart for Kubernetes
+    digest: b172287d9838cb01b1f3699a9a2480c9396b38768fdc95f1a3dfe414e782bd24
+    name: palworld
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/palworld-0.2.0/palworld-0.2.0.tgz
+    version: 0.2.0
+  return-to-moria:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:13.4237012Z"
+    description: A Helm chart for Kubernetes
+    digest: d6a7bb635d03be7dee376bb0e9399c610669fc001a64fd496ae717f1f0ea7abf
+    name: return-to-moria
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/return-to-moria-0.2.0/return-to-moria-0.2.0.tgz
+    version: 0.2.0
+  satisfactory:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-08-10T17:49:13.562544297Z"
+    description: A Helm chart for Kubernetes
+    digest: 36db1897a2d700f8cfcbbe5579a5b961650ebcb7404487a12118583475669e73
+    name: satisfactory
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/satisfactory-0.2.0/satisfactory-0.2.0.tgz
+    version: 0.2.0
+  subnautica:
+  - apiVersion: v2
+    appVersion: 1.1.5
+    created: "2025-08-10T17:49:13.672651336Z"
+    description: A Helm chart for Kubernetes
+    digest: 4f9155fb1b05fcac76822677e9dee956ceae04bab5f552d35f92e5c7425ae36e
+    name: subnautica
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/subnautica-0.2.0/subnautica-0.2.0.tgz
+    version: 0.2.0
+  the-forest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:13.809701208Z"
+    description: A Helm chart for Kubernetes
+    digest: adb98b415a3ce0d2a487945f39edcbe6e754f57c25de733d2939cff50abbc6ec
+    name: the-forest
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/the-forest-0.2.0/the-forest-0.2.0.tgz
+    version: 0.2.0
+  valheim:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-08-10T17:49:13.948792146Z"
+    description: A Helm chart for Kubernetes
+    digest: 26ef9296d67892528e4fdb13e82859522b908697a9934c8a13975f11908f5057
+    name: valheim
+    type: application
+    urls:
+    - https://github.com/hyperkineticnerd/helm-charts-games/releases/download/valheim-0.2.0/valheim-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-08-10T17:49:13.948799249Z"
