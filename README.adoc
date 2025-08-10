@@ -5,7 +5,7 @@
 Add this repo to Helm:
 [source,bash]
 -----
-helm repo add hknlab https://charts.hknlab.io
+helm repo add hknlab https://games.hknlab.io
 -----
 
 == Charts
