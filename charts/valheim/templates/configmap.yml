@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: valheim-env
+  # namespace: valheim
+data:
+  {{ toYaml .Values.env | nindent 12 }}

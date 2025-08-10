@@ -1,0 +1,58 @@
+= Hyperkineticnerd Game Helm Charts
+
+== Usage
+
+Add this repo to Helm:
+[source,bash]
+-----
+helm repo add hknlab https://charts.hknlab.io
+-----
+
+== Charts
+
+=== Stable Application Helm Charts
+
+[frame=none, cols="2,1"]
+|===
+
+|Minecraft dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/minecraft[`charts/minecraft`]
+
+|Satisfactory dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/satisfactory[`charts/satisfactory`]
+
+|===
+
+=== In-Development Application Helm Charts
+
+[frame=none, cols="2,1"]
+|===
+
+|7 Days to Die dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/7-days-to-die[`charts/7-days-to-die`]
+
+|Astroneer dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/astroneer[`charts/astroneer`]
+
+|Don't Starve Together dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/dont-starve-together[`charts/dont-starve-together`]
+
+|Enshouded dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/enshrouded[`charts/enshrouded`]
+
+|Palword dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/palworld[`charts/palworld`]
+
+|LOTR: Return to Moria dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/return-to-moria[`charts/return-to-moria`]
+
+|Subnautica dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/subnautica[`charts/subnautica`]
+
+|The Forest dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/the-forest[`charts/the-forest`]
+
+|Valheim dedicated server
+|https://github.com/hyperkineticnerd/helm-charts/tree/main/charts/valheim[`charts/valheim`]
+
+|===
